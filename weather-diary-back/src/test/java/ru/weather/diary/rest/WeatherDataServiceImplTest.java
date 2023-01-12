@@ -9,10 +9,10 @@ import org.slf4j.LoggerFactory;
 
 public class WeatherDataServiceImplTest {
     private final Logger logger = LoggerFactory.getLogger(WeatherDataServiceImplTest.class);
-    @Test
-    @DisplayName("Данные от OpenWeather")
-    @Description("Тест получения погодных данных в json-формате с сервера OpenWeather")
-    @Step("Шаг 1")
+    //@Test
+    //@DisplayName("Данные от OpenWeather")
+    //@Description("Тест получения погодных данных в json-формате с сервера OpenWeather")
+    //@Step("Шаг 1")
     public void getJsonWeatherTest() {
 
     }
