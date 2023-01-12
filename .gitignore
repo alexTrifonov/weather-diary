@@ -8,3 +8,5 @@ target/
 
 .allure/
 weather-diary-back/target/
+
+.java-version
